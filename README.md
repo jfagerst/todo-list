@@ -1,3 +1,7 @@
+# Todo-lista
+
+Tämä todo-lista on osa Web-ohjelmoinnin sovellusprojektin suoritusta. Tämä suoritus sisältää tehtävän kaikki osiot 1-8
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
