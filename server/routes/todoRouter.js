@@ -1,7 +1,7 @@
 import { pool } from '../helper/db.js'
 import { auth } from '../helper/auth.js'
 import { Router } from 'express'
-import { getTasks, postTask } from '../controllers/TaskController.js'
+import { getTasks, postTask, deleteTask } from '../controllers/TaskController.js'
 
 const router = Router()
 
